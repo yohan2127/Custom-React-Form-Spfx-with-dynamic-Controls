@@ -1,0 +1,178 @@
+input{
+    width: 62% !important;
+    margin: 16px !important;
+	height:30px !important;
+}
+.container{
+	width:80%;
+	margin:auto;
+}
+.program_list.input{
+    width: 25% !important;
+    margin: 16px !important;
+	height:30px !important;
+}
+label{
+    float: left;
+    width: 30%;
+    height: 50px;
+    line-height: 50px;
+}
+.program_list{
+	width:50%;
+	float:left;
+	
+}
+.program{
+	width:49%;
+	float:left;
+	
+}
+.overallstatus {
+    float: left;
+    width: 33%;
+}
+.overallstatus label {
+    width: 100% !important;
+	line-height:36px;
+	
+}
+.overall_drp {
+    float: left;
+    width: 63%;
+    height: 30px;
+}
+.overall_drp select {
+    height: 38px;
+    width: 100%;
+}
+#overalll{
+	margin-top:10px;
+}
+.DomainStatus {
+    float: left;
+    width: 33%;
+}
+.DomainStatus label {
+    width: 100% !important;
+	line-height:36px;
+	
+}
+.DomainStatus_drp {
+    float: left;
+    width: 63%;
+    height: 30px;
+}
+.DomainStatus_drp select {
+    height: 38px;
+    width: 100%;
+}
+#Domainn{
+	margin-top:10px;
+	display:inline-block;
+	width:100%;
+}
+.prog_scope{
+	min-height:150px;
+	border:1px solid #ececec;
+	width:100%;
+	display:inline-block;
+}
+.hightlight{
+	height:150px;
+	float:left;
+	border:1px solid #ececec;
+	width:49%;
+	margin-right:15px;
+}
+.highlight_title{
+	height:40px;
+	font-size:20px;
+	font-weight:600;
+	padding-left:10px;
+	line-height: 40px;
+	font-family:arial;
+    background-color: #ccc;
+}
+.pro_scope_title{
+	height:40px;
+	font-size:20px;
+	font-weight:600;
+	padding-left:10px;
+	line-height: 40px;
+	font-family:arial;
+	color:#fff;
+    background-color: #000;
+}
+.lowlight_title{
+	height:40px;
+	font-size:20px;
+	font-weight:600;
+	padding-left:10px;
+	line-height: 40px;
+	font-family:arial;
+    background-color: #ccc;
+}
+.lowlight{
+	height:150px;
+	float:left;
+	border:1px solid #ececec;
+	width:49%;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border:1px solid #ccc;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+.milestone {
+    display: inline-block;
+    width: 100%;
+    
+}
+table tbody tr {
+    height: 30px;
+    color: #fff;
+    background-color: #e20074;
+	border:0px !important;
+}
+table tbody td {
+    height: 30px;
+    color: #fff;
+	background-color:#fff;
+	border:0px !important;
+}
+table tbody th{
+	border:0px !important;
+}
+.milestone input {
+    margin: 0px !important;
+    width: 100% !important;
+}
+.milestone a{
+	text-decoration:none;
+	font-size:15px;
+	font-weight:600;
+}
+.risk input {
+    margin: 0px !important;
+    width: 100% !important;
+}
+.risk a{
+	text-decoration:none;
+	font-size:15px;
+	font-weight:600;
+}
+textarea{
+	width: 62%;
+    margin-left: 16px;
+    margin-top: 10px;
+}
